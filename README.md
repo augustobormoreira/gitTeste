@@ -1,3 +1,1 @@
 # gitTeste
-
-# FUNCIONA CARALHOOOOOOOOO
